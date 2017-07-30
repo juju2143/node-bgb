@@ -1,0 +1,31 @@
+{
+  "name": "bgb",
+  "version": "0.0.1",
+  "description": "Implement BGB's Game Boy link protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juju2143",
+  "license": "LiLiQ-R",
+  "dependencies": {},
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "midi": "^0.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juju2143/node-bgb.git"
+  },
+  "keywords": [
+    "gameboy",
+    "bgb",
+    "link"
+  ],
+  "bugs": {
+    "url": "https://github.com/juju2143/node-bgb/issues"
+  },
+  "homepage": "https://github.com/juju2143/node-bgb#readme"
+}
